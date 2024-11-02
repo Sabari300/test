@@ -1,0 +1,5 @@
+    PID TTY          TIME CMD
+ 228607 pts/3    00:00:00 sudo
+ 228608 pts/3    00:00:00 su
+ 228609 pts/3    00:00:00 bash
+ 228684 pts/3    00:00:00 ps
